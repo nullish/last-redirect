@@ -1,6 +1,6 @@
 {
   "name": "last-redirect",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Function to return summary details of last URL redirect in a chain. Required Puppeteer.",
   "main": "index.js",
   "scripts": {
