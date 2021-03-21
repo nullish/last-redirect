@@ -19,7 +19,5 @@
     "url": "https://github.com/nullish/last-redirect/issues"
   },
   "homepage": "https://github.com/nullish/last-redirect#readme",
-  "dependencies": {
-    "puppeteer": "^8.0.0"
-  }
+  "dependencies": {}
 }
