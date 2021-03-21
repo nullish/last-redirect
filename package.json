@@ -1,0 +1,25 @@
+{
+  "name": "last-redirect",
+  "version": "1.0.0",
+  "description": "Function to return summary details of last URL redirect in a chain. Required Puppeteer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullish/last-redirect.git"
+  },
+  "keywords": [
+    "redirect,puppeteer"
+  ],
+  "author": "Nullish",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/nullish/last-redirect/issues"
+  },
+  "homepage": "https://github.com/nullish/last-redirect#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
